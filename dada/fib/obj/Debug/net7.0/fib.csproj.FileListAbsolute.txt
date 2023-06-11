@@ -1,0 +1,15 @@
+C:\vsprog\lessons2\fib\bin\Debug\net7.0\fib.exe
+C:\vsprog\lessons2\fib\bin\Debug\net7.0\fib.deps.json
+C:\vsprog\lessons2\fib\bin\Debug\net7.0\fib.runtimeconfig.json
+C:\vsprog\lessons2\fib\bin\Debug\net7.0\fib.dll
+C:\vsprog\lessons2\fib\bin\Debug\net7.0\fib.pdb
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\fib.csproj.AssemblyReference.cache
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\fib.AssemblyInfoInputs.cache
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\fib.AssemblyInfo.cs
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\fib.csproj.CoreCompileInputs.cache
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\fib.dll
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\refint\fib.dll
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\fib.pdb
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\fib.genruntimeconfig.cache
+C:\vsprog\lessons2\fib\obj\Debug\net7.0\ref\fib.dll
